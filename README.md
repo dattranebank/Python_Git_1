@@ -7,7 +7,6 @@ Các bước sử dụng Git & GitHub tích hợp trong PyCharm:
 #### Bước 1. Tạo project trên PyCharm
 Để có thể thực hành sử dụng Git với Python dành cho người mới, ta thực hiện:
 * Tạo một project mới với tên `Python_Git_1 `
-
 ![img.png](Image/img.png)
 
 * Tạo file `main.py` và nhập mã nguồn đơn giản: `print("Hello World")`
@@ -26,7 +25,11 @@ Việc đăng nhập tài khoản trên GitHub giúp ta có thể thao tác vớ
 #### Bước 3: Tạo local repository cho project
 * Bấm vào biểu tượng 3 chấm phía trên bên trái
 * Chọn `VCS -> Enable Version Control Integration`
+![img_5.png](img_5.png)
+
 * Chọn `Git -> OK`
+![img_6.png](img_6.png)
+
 #### Bước 4: Tạo remote repository trên GitHub và liên kết với local repository
 * Bấm vào biểu tượng 3 chấm phía trên bên trái
 * Chọn `Git -> GitHub -> Share Project on GitHub`

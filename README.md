@@ -20,6 +20,8 @@ Tiếp theo, để đăng nhập tài khoản GitHub trên PyCharm, ta thực hi
 * Chọn `Settings -> Version Control -> GitHub`
 * Thêm tài khoản GitHub của bạn và nhấn `Apply -> OK`
 
+![img_3.png](img_3.png)
+
 Việc đăng nhập tài khoản trên GitHub giúp ta có thể thao tác với local repository và remote repository.
 #### Bước 3: Tạo local repository cho project
 * Bấm vào biểu tượng 3 chấm phía trên bên trái

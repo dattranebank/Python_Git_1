@@ -7,6 +7,7 @@ Các bước sử dụng Git & GitHub tích hợp trong PyCharm:
 #### Bước 1. Tạo project trên PyCharm
 Để có thể thực hành sử dụng Git với Python dành cho người mới, ta thực hiện:
 * Tạo một project mới với tên `Python_Git_1 `
+
 ![img.png](Image/img.png)
 
 * Tạo file `main.py` và nhập mã nguồn đơn giản: `print("Hello World")`
@@ -25,15 +26,23 @@ Việc đăng nhập tài khoản trên GitHub giúp ta có thể thao tác vớ
 #### Bước 3: Tạo local repository cho project
 * Bấm vào biểu tượng 3 chấm phía trên bên trái
 * Chọn `VCS -> Enable Version Control Integration`
+
 ![img_5.png](img_5.png)
 
 * Chọn `Git -> OK`
+
 ![img_6.png](img_6.png)
 
 #### Bước 4: Tạo remote repository trên GitHub và liên kết với local repository
 * Bấm vào biểu tượng 3 chấm phía trên bên trái
 * Chọn `Git -> GitHub -> Share Project on GitHub`
+
+![img_7.png](img_7.png)
+
 * Nhập thông tin và nhấn `Share`
+
+![img_8.png](img_8.png)
+
 #### Bước 5: Thêm file vào staging area
 Trước khi push project từ local repository lên remote repository, ta cần add những file muốn theo dõi (tracked files) vào staging area, ta thực hiện:
 * Tại mục Project, chọn `main.py`

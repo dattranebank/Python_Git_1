@@ -12,7 +12,7 @@ Các bước sử dụng Git & GitHub tích hợp trong PyCharm:
 Để có thể thực hành sử dụng Git với Python dành cho người mới, ta thực hiện:
 * Tạo một project mới với tên `Python_Git_1 `
 
-
+![Buoc1_1.png](Image%2FBuoc1_1.png)
 
 * Tạo file `main.py` và nhập mã nguồn đơn giản: `print("Hello World")`
 

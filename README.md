@@ -59,7 +59,7 @@ Sau khi add tracked files vào staging area, ta thực hiện:
 * Tại mục Commit, chọn `main.py`
 * Nhập Commit Message như `“Initial commit”` và bấm `Commit`
 
-![Buoc6.png](Image/Buoc6.png)
+![Buoc6.png](Image%2FBuoc6.png)
 
 #### Bước 7: Push local repository lên remote repository
 Cuối cùng, ta push local repository lên remote repository trên GitHub bằng cách 

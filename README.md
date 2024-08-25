@@ -4,7 +4,7 @@ với ngôn ngữ Python và IDE là PyCharm
 
 ### I. Sơ đồ các bước sử dụng Git & GitHub
 
-![Python_Git.png](Image%2FPython_Git.png)
+
 
 ### II. Sử dụng Git tích hợp trong PyCharm
 Các bước sử dụng Git & GitHub tích hợp trong PyCharm:

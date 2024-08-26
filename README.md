@@ -1,6 +1,9 @@
-# Sử dụng Git & GitHub với Python dành cho người mới
+# 2. Sử dụng Git & GitHub với Python dành cho người mới (Phần 1)
 Chào mọi người, mình là Đạt, đây là bài hướng dẫn sử dụng Git & GitHub dành cho người mới
 với ngôn ngữ Python và IDE là PyCharm
+
+**Bài viết trước**: [1. Tải và cài đặt PyCharm](https://github.com/dattranebank/Python_Beginner)\
+**Bài viết tiếp theo**: [3. Sử dụng Git & GitHub với Python dành cho người mới (Phần 2)](https://github.com/dattranebank/Python_Git_2)
 
 ### I. Sơ đồ các bước sử dụng Git & GitHub
 
@@ -66,7 +69,4 @@ Cuối cùng, ta push local repository lên remote repository trên GitHub bằn
 chọn `master -> Push`
 
 ![Buoc7_img.png](Image%2FBuoc7_img.png)
-
-### II. Sử dụng Git cài riêng bên ngoài
-=> Đang cập nhật
 
